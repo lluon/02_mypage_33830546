@@ -25,7 +25,7 @@ http.createServer(function (req, res) {
           sans-serif;
         
           text-transform: uppercase;
-          text-align: center;
+          text-align: left;
           margin: 50px;
           line-height: 20%;
           background-color: #f4f4f4;
