@@ -9,8 +9,8 @@ A simple **Node.js** web server that hosts my personal web page. The application
 This application starts a lightweight HTTP server that listens on **port 8000**.  
 When a user accesses the server via a web browser, it responds with a styled HTML page containing:
 
-- A personal profile for **Lucio Luongo**  
-- Links to his portfolio and creative projects  
+- my personal profile  
+- Links to my portfolio and creative projects  
 - A detailed biography and list of artistic collaborations  
 - Inline CSS for visual styling  
 - A small JavaScript snippet for demonstration
