@@ -4,7 +4,7 @@ const port = 8000;
 http.createServer(function (req, res) {
   res.writeHead(200, { "Content-Type": "text/html" });
 
-  // my HTML page inline code into response method
+  // my HTML inline code into response method
   res.end(`
     <!DOCTYPE html>
     <html lang="en">
