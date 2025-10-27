@@ -29,6 +29,6 @@ In short, it’s a **self-hosted personal web page** generated dynamically from 
 | **CSS3** | Provides styling for layout, typography, and colour. |
 | **JavaScript** | Adds a simple console message to demonstrate client-side scripting. |
 
-This project is intentionally minimal — no frameworks or external dependencies are used — to illustrate how a web server can be built **purely with native Node.js**.
+This project is intentionally minimal, no frameworks or external dependencies are used, to illustrate how a web server can be built **purely with native Node.js**.
 
 ---
